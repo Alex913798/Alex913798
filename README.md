@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Aleksandr. Всем привет, меня зовут Александр👋
-- Yandex.Practicum graduate. Я окончил образовательную программу "Python-разработчик" от Яндекс-практикума.
-- Languages and Tools. Владею следующими языками программирования и инструментами разработки: Python / Django/ Django REST Framework / PostgreSQL / Docker / Docker-Compose / Yandex.Cloud / HTML / Linux / Nginx
+<h3 align="left"> - Yandex.Practicum graduate. Я окончил образовательную программу "Python-разработчик" от Яндекс-практикума.
+<h3 align="left"> - Languages and Tools. Владею следующими языками программирования и инструментами разработки: Python / Django/ Django REST Framework / PostgreSQL / Docker / Docker-Compose / Yandex.Cloud / HTML / Linux / Nginx
 <!--
 **Alex913798/Alex913798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
